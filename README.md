@@ -1,6 +1,7 @@
 # SmartHealth Portal
 
-### Home Page 
+### Home Page
+
 ![preview](/src/smarthealth.png)
 
 ## 𝘼𝙪𝙩𝙝𝙤𝙧: 𝙉𝙚𝙨𝙨𝙖 𝙆𝙤𝙙𝙤 - 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧
@@ -9,31 +10,18 @@ The SmartHealth portal serves as a decentralized application utilizing smart con
 
 ## 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 + 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 𝘜𝘴𝘦𝘥
 
-####
-![Node](https://img.shields.io/badge/Node.js-b325ae?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-b325ae?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-b325ae?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-b325ae?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-b325ae?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-b325ae?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/react-b325ae?style=for-the-badge&logo=react&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-b325ae?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-b325ae?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-b325ae?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 
 ## 𝘗𝘳𝘰𝘫𝘦𝘤𝘵 𝘋𝘦𝘭𝘪𝘷𝘦𝘳𝘢𝘣𝘭𝘦𝘴
 
-[✔️] Create a functional web and mobile application 
-
-[✔️] Encrypts and decrypts messages between hcp/patient
-
-[✔️] Utilizes a secure authentication practice through Metamask
-
+[✔️] Create a functional web and mobile application  
+[✔️] Encrypts and decrypts messages between hcp/patient  
+[✔️] Utilizes a secure authentication practice through Metamask  
 
 ## 𝘗𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘓𝘪𝘯𝘬𝘴
 
-####
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b325ae?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nessakodo/)
-[![Dev.to](https://img.shields.io/badge/dev.to-b325ae?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nessakodo)
-[![Email](https://img.shields.io/badge/Gmail-b325ae?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessakodo@gmail.com)
-[![NessaKodo.com](https://img.shields.io/badge/nessakodo.com-b325ae?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nessakodo.com)
+#### 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nessakodo/) 
+[![Dev.to](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nessakodo) 
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessakodo@gmail.com) 
+[![NessaKodo.com](https://img.shields.io/badge/nessakodo.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nessakodo.com)
