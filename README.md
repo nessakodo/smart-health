@@ -14,7 +14,7 @@ The SmartHealth portal serves as a decentralized application utilizing smart con
 
 ## 𝘗𝘳𝘰𝘫𝘦𝘤𝘵 𝘋𝘦𝘭𝘪𝘷𝘦𝘳𝘢𝘣𝘭𝘦𝘴
 
-[✔️] Create a functional web and mobile application  
+[✔️] Serves as a functional web and mobile application  
 [✔️] Encrypts and decrypts messages between hcp/patient  
 [✔️] Utilizes a secure authentication practice through Metamask  
 
